@@ -1,5 +1,5 @@
 ## General
-A simple tensorflow model that classifies a room image (clean or messy)
+A simple tensorflow model that classifies a room image (clean or messy).
 
 ## How to Run
 - Open the model.ipynb file in your favorite editor (VSC, Google Colab, etc.) like you would any other .ipynb files
