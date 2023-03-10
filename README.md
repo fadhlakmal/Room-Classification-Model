@@ -9,6 +9,6 @@ A simple tensorflow model that classifies a room image (clean or messy).
 - When you run the last cell, the "Choose Files" button should appear
 ![Screenshot 2023-03-10 213906 (2)](https://user-images.githubusercontent.com/120249194/224344929-43012fe2-2997-4859-aa54-82afc736590b.png)
 
-- Click it and pick an image you want to check
+- Click it and pick any image you want
 - The model should display something like this
 ![image](https://user-images.githubusercontent.com/120249194/224345811-7a430081-fb99-4f55-94bb-f462cf6975c2.png)
